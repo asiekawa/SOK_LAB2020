@@ -1,1 +1,5 @@
-Ala ma kota.
+1. tworzymy nowy branch
+2. bêd¹c na nowym branchu modyfikujemy plik text.txt i commitujemy i pushujem
+3. przechodzimy na main branch
+4. modyfikujemy plik text.txt, commitujemy, pushujemy
+5. merge nowego brancha do maina
